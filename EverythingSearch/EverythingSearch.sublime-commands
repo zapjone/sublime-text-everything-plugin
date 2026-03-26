@@ -1,0 +1,32 @@
+[
+    {
+        "caption": "Everything: Search",
+        "command": "everything_search",
+        "args": { "prefix": "" }
+    },
+    {
+        "caption": "Everything: Search by Extension",
+        "command": "everything_search",
+        "args": { "prefix": "ext:" }
+    },
+    {
+        "caption": "Everything: Search by Path",
+        "command": "everything_search",
+        "args": { "prefix": "path:" }
+    },
+    {
+        "caption": "Everything: Search by Size",
+        "command": "everything_search",
+        "args": { "prefix": "size:" }
+    },
+    {
+        "caption": "Everything: Search by Date",
+        "command": "everything_search",
+        "args": { "prefix": "dm:" }
+    },
+    {
+        "caption": "Everything: Search by Regex",
+        "command": "everything_search",
+        "args": { "prefix": "regex:" }
+    }
+]
